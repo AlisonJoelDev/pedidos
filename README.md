@@ -1,8 +1,4 @@
-# pedidos
-pedidos
-
-
-<!doctype html>
+v<!doctype html>
 <html lang="pt-BR" class="h-full">
  <head>
   <meta charset="UTF-8">
